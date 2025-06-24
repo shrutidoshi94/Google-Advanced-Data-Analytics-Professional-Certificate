@@ -1,0 +1,2 @@
+In this section of the course, you’ll learn about the concept of sampling and its applications in data work. The section begins with an overview of inferential statistics and the relationship between sample and population. This is followed by a summary of the sampling process, and the benefits and drawbacks of specific sampling methods. You’ll also learn about sampling distributions for both means and proportions.
+
