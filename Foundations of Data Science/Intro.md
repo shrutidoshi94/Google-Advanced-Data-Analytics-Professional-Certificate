@@ -83,8 +83,6 @@ So far, you’ve been considering how data science and data analytics work toget
 
 Data science and data analytics are distinct but connected fields that have developed over time in the evolving data career space. Organizations often use these terms interchangeably when hiring, so being able to recognize the similarities and differences between the two professions will help you identify opportunities that are aligned with your particular skill set. That’s why, throughout this course, you will learn more about the data career space as a whole and how data analytics professionals work within that space.
 
-
-
 # Profiles of data professionals
 
 You have been learning about data professionals and how valuable their work is to the companies that employ them. You also learned about technical and strategic roles for data analytics professionals. Data analysts in technical roles transform raw data into something useful for decision-making. Strategic data analytics professionals focus on maximizing information to guide the businesses they are working for. In this reading, you will learn more about the data professional career space, and see examples of some general categories of data professional roles.
@@ -183,8 +181,6 @@ This classification of roles covers high-ranking executives within an organizati
 
 There are a wide variety of roles and responsibilities in the data professional career space. Later, you will learn how these roles work together and collaborate with groups of professionals with diverse expertise on data analysis projects. Having a general understanding of the roles and responsibilities of data professionals can help inform your job search. This information can serve as a reference that can help you understand the needs and expectations of companies as you navigate through job postings. Take inventory of any transferable skills you may already possess from educational or professional experience.
 
-
-
 # Where data makes a difference for the future
 
 As you have been learning, the data analytics field is dynamic, spanning a variety of industries. For you and other data professionals searching for new job prospects, there are great opportunities across a spectrum of career fields. As you start to think about your own future role in data analytics, it can help to investigate how data is being used within different industries. In this reading, you’ll consider some examples of industries and how data analytics helps guide them. You’ll also consider the future of data analytics and how the field is still evolving!
@@ -225,8 +221,6 @@ An increasing number of data analytics tasks will be automated by creating, mana
 ## Key takeaways
 
 As you progress through your career as a data analytics professional, you will need to stay up-to-date with the latest trends and technologies used across different industries. The one certainty about the future of data analytics is that an increasing amount of data will continue to be generated and that new systems and innovations will continue to be developed, allowing data professionals an opportunity to learn, grow, and develop new skills.
-
-
 
 # Ideal qualities for data analytics professionals
 
@@ -296,8 +290,6 @@ The ability to resolve problems is an important part of being a data analytics p
 
 Employers in a variety of industries are eager to hire data professionals who possess more than just technical expertise. You can highlight your non-technical abilities for potential employers in several ways. Discover ways to successfully and effectively communicate your passions. By demonstrating a commitment to professional growth and sharing examples of your ability to solve problems, you can set yourself apart from other candidates.
 
-
-
 # Volunteer data skills to make a positive impact
 
 So far, you have been learning how data analytics professionals are making an impact in a variety of industries. You’ve also learned about nonprofit organizations, and how their efforts are making a difference for so many in need. By volunteering their expertise and time, data analytics professionals contribute to many projects that help nonprofits benefit communities all around the world. In this reading, you will learn more about how you can contribute to global efforts, including  your local community as a data professional.
@@ -362,7 +354,6 @@ Working with a nonprofit organization or participating in a hackathon event intr
 * [IRS.gov tax exempt organizations listing](https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations) is a website to find charitable organizations throughout the United States.
 * [Statistics without borders](https://www.statisticswithoutborders.org/) contributes to the common good by providing free statistical, data science, and analytical services.
 
-
 # Critical data security and privacy principles
 
 You have learned how data analytics can be used for good causes, like assisting nonprofit organizations. Also, you learned that data professionals need to protect privacy within data and remain aware of other considerations, like data bias and making assumptions about data.
@@ -383,7 +374,7 @@ In order to maintain these rights, businesses and organizations have to put priv
 
 ## Protecting privacy with data anonymization
 
-![An illustration of eraser wiping away data from a webpage on a laptop screen](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/en2obzxtSOegKNKZRpOUFw_3dd54e525be441a398bf2707ec47e3f1_ADA_R--475_Erasing-computer-screen.png?expiry=1751500800000&hmac=hqNZNhmgQQVPEfNlgm0HviOEn3qJy47xjM1-hrhsFCA)
+![An illustration of eraser wiping away data from a webpage on a laptop screen](https://vscode.dev/github/shrutidoshi94/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Foundations%20of%20Data%20Science/Ill1.pnghttps://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/en2obzxtSOegKNKZRpOUFw_3dd54e525be441a398bf2707ec47e3f1_ADA_R--475_Erasing-computer-screen.png?expiry=1751500800000&hmac=hqNZNhmgQQVPEfNlgm0HviOEn3qJy47xjM1-hrhsFC)
 
 Organizations use a lot of different measures to protect the privacy of their data subjects, like incorporating access permissions to ensure that only the people who are supposed to access that information can do so. Another key strategy to maintaining privacy is data anonymization.
 
