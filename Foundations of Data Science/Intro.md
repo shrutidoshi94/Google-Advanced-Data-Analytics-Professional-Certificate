@@ -374,7 +374,7 @@ In order to maintain these rights, businesses and organizations have to put priv
 
 ## Protecting privacy with data anonymization
 
-![An illustration of eraser wiping away data from a webpage on a laptop screen](https://vscode.dev/github/shrutidoshi94/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Foundations%20of%20Data%20Science/Ill1.pnghttps://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/en2obzxtSOegKNKZRpOUFw_3dd54e525be441a398bf2707ec47e3f1_ADA_R--475_Erasing-computer-screen.png?expiry=1751500800000&hmac=hqNZNhmgQQVPEfNlgm0HviOEn3qJy47xjM1-hrhsFC)
+![Illustration](./assets/Ill1.png)
 
 Organizations use a lot of different measures to protect the privacy of their data subjects, like incorporating access permissions to ensure that only the people who are supposed to access that information can do so. Another key strategy to maintaining privacy is data anonymization.
 
@@ -401,3 +401,439 @@ Imagine a world where we all had access to each other’s addresses, account num
 For any professional working with data about actual people, it’s important to consider the safety and privacy of those individuals. That’s why understanding the importance of data privacy and how data that contains PII can be made secure for analysis is so important. We have a responsibility to protect people’s data and the personal information that data might contain.
 
 If you’re interested in learning more about data privacy and ethics, you can check out [the Google Data Analytics Certificate program’s section on bias, credibility, privacy, ethics, and access](https://www.coursera.org/learn/data-preparation/home/week/2).
+
+
+# The practices and principles of good data stewardship
+
+As you have been learning, all data professionals are responsible for ensuring the quality, integrity, accessibility, and security of data. Data stewardship is the practice of ensuring that data is accessible, usable, and safe. Making data stewardship a normal part of your work habits will benefit everyone who relies on your analysis, both inside and outside of your organization. In this reading, you will learn more about data stewardship and receive some best practices that can assist in guiding your career in data analytics.
+
+## Respect privacy
+
+Earlier in this course, you learned about Information that permits the identity of an individual to be inferred by either direct or indirect means. This kind of information is commonly referred to as personally identifiable information or PII. When users share personal information, they are putting a high level of trust into an organization. It is the responsibility of all who have access within the organization to help protect the privacy of their users. As a data analytics professional, it is important to be thoughtful about any personal data and exhibit great care to protect it. In different parts of the world, laws are in place to guide best practices for data privacy. Laws provide a foundation for best practices as you grow in knowledge and experience on how to support and sustain privacy. One of your responsibilities as a data professional will be to stay up to date with any change in data laws and regulations that govern data. Depending on your organization’s location or industry considerations, there may be additional regulations and policies in place. Here are a couple of regional examples:
+
+* General Data Protection Regulation or [GDPR](https://gdpr.eu/) (European Union law):
+  * The GDPR is described on their website as the toughest privacy and security law in the world. It imposes obligations onto organizations anywhere, so long as they target or collect data related to people in the European Union.
+* Lei Geral de Proteção de Dados Pessoais or [LGPD](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) (Brazil’s general law for the protection of personal data):
+  * The LGPD is a data protection law that governs how companies collect, use, disclose, and process personal data belonging to people in Brazil. LGPD applies to companies that process data about individuals in Brazil.
+* The California Consumers Privacy Act or [CCPA](https://oag.ca.gov/privacy/ccpa) (Privacy rights for California consumers):
+  * The CCPA gives consumers more control over the personal information that businesses collect about them. These regulations provide guidance on how to implement the law.
+  * Additionally, states like Virginia, Colorado, New York, Utah, and Connecticut have enacted similar legislation to protect consumer privacy in their states.
+
+## Be cautious of unintentional harm
+
+Data analytics is expanding its influence across an increasing range of industries. Companies are using the results of data analysis to make informed decisions. Many of these decisions have the potential to impact people across a broad range of social and economic factors. It is good practice to continually strive to produce information that is accurate, while respecting cultural and social norms.
+
+Due to the global marketplace, decisions play out differently in different cultures. Taking these issues and considerations into account is very important for the executive team of an organization. Also, companies are known to take a position on particular politicized social and cultural issues, and these can be reflected in their policies. As a data analytics professional, you must be cognizant of your company’s policies. When presented with challenges, it is best to seek guidance from leadership within your organization on how to navigate.
+
+## Avoid creating or reinforcing bias
+
+You have learned about bias within data and how it can have an impact on your analysis. Identifying bias is not always simple. A good practice when working with data is to keep in mind that data gathering is a task managed by humans–and that process is informed by people from different backgrounds, experiences, beliefs, and worldviews. These and other types of biases can affect the data and the results, which in turn can have an impact on business decisions. You will learn more about bias within data as you progress through the program.
+
+## Consider inclusivity
+
+Often in your role as a data analytics professional, you will have access to data collected in a variety of ways. You will need to consider whether the methods of data collection have excluded information from particular populations. Inclusionary approaches can expand how any organization collects and analyzes data. Building diverse research teams, communicating clearly with user communities, and engaging in careful and critical analysis that considers equity and inclusion benefits all stakeholders.
+
+## Uphold high standards of scientific excellence
+
+The processes and technology that you will interact with as a data analytics professional are deeply rooted in the scientific method. As you continue in your data professional journey, embrace inquiry, intellectual discussion, and collaboration. Invite feedback and assess feedback. Remember, artificial intelligence still depends heavily on the instructions provided by data professionals. The more time and consideration that goes into the process of data analytics, the better the results.
+
+Different industries have different standards. In your role as a data analytical professional, you will need to be aware of the standards for the industries you are working in. Each industry will have its own standards based on industry conventions.
+
+Conventions that work well in the transportation industry may not necessarily be as high of a priority for the healthcare industry. For example, in transportation, data is collected to create predictive analytics models to analyze the best route based on traffic patterns. In the healthcare industry, data is analyzed in medical imaging, predicting genetic factors, and speeding up the development of treatments.
+
+## Data stewardship and ethics conversations
+
+As you progress through your career as a data analytics professional, you will need to consider issues of ethical concern. For example, you may encounter situations where you address questions of bias or need to protect user data and personally identifiable information (PII). When these types of questions arise, many seek guidance and support from online communities of data professionals who have dealt with similar issues. The following graphics present scenarios involving these kinds of issues. You can also find text alternative versions of these conversations in the 
+
+![Illustration](./assets/Ill2.png)
+
+![Illustration](./assets/Ill3.png)
+
+![Illustration](./assets/Ill4.png)
+
+![Illustration](./assets/Ill5.png)
+
+## Key takeaways
+
+Data stewardship is the responsibility of every data professional. This responsibility goes beyond interactions with the data. By conducting your work in ways that are socially beneficial and inclusive, you will increase your ability to identify human bias. Guide your efforts through scientific and ethical principles and stay aware of possible bias throughout the data analysis process.
+
+
+# Build the perfect data team
+
+You have been learning about the role of data analytics professionals within organizations and the work they perform. You’ve also examined some general classifications for data professional roles.  Additionally, you explored what a typical data analytics profession might experience during the initial days in a new position. Large organizations often have more data needs, requiring the creation of teams to take on projects. In this reading, you will learn more about how organizations build data analytics teams and look at some best practices when constructing them.
+
+## **Designing data analytics teams**
+
+The idea of companies creating teams of data professionals developed over time and largely out of necessity. Originally, the responsibilities of data collection, management, and analysis fell onto the CIO (chief information officer) of the company. CIOs in the past would typically hand the responsibilities over to the IT (Informational technology) team.
+
+Gradually, organizations began separating data functions as the wealth of information stored grew. Additionally, new technologies emerged and data-related tasks became more specialized.
+
+### Data professional profiles within large organizations
+
+Earlier in this course, you were introduced to some data professional profiles.
+
+* Data Scientist
+* Data Analyst
+* Data Engineer
+* Analytic Team Manager
+* Business Intelligence Engineer
+
+These profiles are very generalized categories that can help you focus your eventual job search. In reality, many employers are looking for more than data professionals. They are looking for project stakeholders, dependable team members, and great co-workers.
+
+### Building the team
+
+The data needs of larger companies requires the creation of a team of skilled professionals. The members of these teams each have a specialized area of expertise. Some will come from business backgrounds, some with project or staff management experience, while others will have more technical skills. While there is no checklist available for companies to follow when putting together their team of data professionals, the needs of their organization can help guide them.
+
+Creating a team of data analytics professionals is very similar to how sports franchises put together championship-level rosters. Coaches and general managers are always looking to upgrade and enhance the capabilities of their teams. While having a superstar athlete can help deliver a consistent performance at a certain position, their abrupt departure can compromise the team’s overall performance. A better approach is to develop a well-balanced and collaborative team.
+
+Employers want to hire someone who has more than data analytic skills. They are selecting the best fit for their organization. Candidates who bring additional experience and skills beyond data analytics are most often seen as most favorable. Strong interpersonal and communication skills, experience working in business, or within a team dynamic can enhance data analytics. There is a very good chance that you already possess some of these skills.
+
+## Five principles for data team building
+
+After you join a data team, there are still challenges to building a data-driven organization. Below you will find five principles that can guide any organization to becoming more effective when facing the challenges of data analysis, regardless of the structure of your data teams within the company.
+
+### 1. Adaptability
+
+Data platforms, networks and storage options need to allow flexibility. Each data professional will have their preferences as to the tools and their approaches to analysis. Remote and on-site employees need to have access and the ability to work with all data and use the tools of communication they feel are the most productive.
+
+Organizations need to facilitate a data platform that allows open access to resources for all users. Instead of specifying specific software solutions, organizations can expand their pool of candidates by allowing individuals to integrate the tools and applications they are most comfortable and experienced with. Flexibility invites a wide range of experience and enhances data teams, adding experience and additional perspectives.
+
+Just as organizations need to be adaptable, those seeking opportunities in data fields should be committed to learning new skills and technologies. Data workplaces are undergoing constant change, as you learned earlier. As a data analytics professional, you will continue to learn and grow as newer technologies or regulations emerge.  Accept the challenge presented by new circumstances and let yourself feel energized when presented with opportunities for professional growth.
+
+**Pro tip: **Keep your desire for learning. Expand your knowledge through online data science communities and educational opportunities.
+
+### 2. Activation
+
+Access to data analysis results require someone with the background and experience of a data analyst. Even small-scale data operations require skills that go beyond the scope of other professionals within an organization.
+
+To become more data literate, organizations should cultivate new habits and integrate them into their daily work routines. Dashboards and other accessible interfaces can help promote the use of data analysis, enabling wider usage of data analysis, promoting communication and fostering cross-departmental collaboration.
+
+Vital to the success of an organization's efforts to transform its internal habits and culture are the interpersonal skills of its employees. When a company is seeking to expand data literacy, its data professionals play an important role. There will be opportunities to help promote understanding among peers and colleagues. The time spent answering questions and promoting understanding will help others appreciate you and your contributions to the organization.
+
+**Pro tip:** Maintain positive professional relationships through effective communication. Your ability to share insights is just as important to an organization as your analyzing skills.
+
+### 3. Standardization
+
+An organization needs to set criteria for the standardization of data practices and procedures. Standardization helps to promote best practices, and communication and transferability of information between teams. When users can share optimized code and other assets it saves development time and streamlines projects. An organization that builds a culture of collaboration embeds best practices into work behaviors.
+
+Identifying candidates with capabilities beyond data analysis is essential to developing and standardizing best practices. To develop best practices, organizations need employees that contribute innovative solutions to problems.
+
+**Pro tip:** Become a problem solver. Obstacles within a project can turn into opportunities for innovation, which can transform an organization.
+
+### 4. Accountability
+
+Data analysis is a complex and dynamic process that requires a high level of accountability. To promote responsibility, organizations need a ‘paper trail’ that allows examination of their entire process.
+
+Accountability adds transparency, explainability, and security to data teams and projects. It also helps to eliminate layers within an organization, while aligning business goals and customer values. Transparency in workflow allows organizations to answer specific questions about the data analysis process. Data analytics professionals can use project metadata to examine and communicate specific elements within their prediction models, giving data teams the collaborative ability to make adjustments with more precision.
+
+One way to promote accountability is to extend your ability to communicate throughout your workflow. Within data analytical projects, the transfer of ideas extends beyond individual correspondence. It also includes information in project notes, records kept within projects, and proper tagging within metadata. Individual processes and ideas are the incubators of standards of practice and communicating these ideas effectively can improve an organization’s accountability.
+
+**Pro tip: **Data analytics professionals are more than repositories of information. It benefits everyone involved in a project if you are able to communicate your knowledge and observations. Identify what would be most valuable to others and provide the information.
+
+### 5. Business impact
+
+Often, the inability to estimate the impact on the business can block data analysis projects. Organizations are not considering all available data analytical solutions during the planning stage.
+
+Organizations should look at approaching data projects with the widest field of view in the planning stage. This requires a thoughtful approach including considerations beyond data analysis.  For example, the difficulty of integration, commitment of resources, and changes to the project timeline. Businesses need to consider more data solutions options and identify which benefit the project the most.
+
+Broadening the scope of an organization takes time and consistency of results. To achieve this, a data team must become a trusted resource for insight and a positive influence on an organization's decision-making process. An effective communication strategy, strong interpersonal skills, and a track record of problem-solving will earn the trust of the organization.
+
+**Pro tip: **Focus on communicating clearly with stakeholders. Maintain a commitment to consistency between what you have promised and what you will deliver.
+
+## Key takeaways
+
+Organizations carefully consider the individuals they bring into their organization and seek candidates that embody qualities that go beyond data skills. Additionally, companies can influence their adaptability by hiring data professionals that embody the spirit of lifelong learning, effective communication, interpersonal skills, and the ability to solve problems.
+
+# Current and future tools
+
+One of the greatest skills a data professional can have is learning how to apply their knowledge of one tool to another tool. Throughout your career, you might discover that different organizations you work for use different tools—and in the field of data science, new and emerging technologies mean that exciting new tools are being developed all the time. This means there will always be opportunities to expand your data science toolkit! In this reading, you will learn more about tools today, including some of the tools you’re going to learn about in this program. You will also explore some of the exciting ways tools are evolving and what that might mean for your toolkit in the future. Finally, you will explore a demonstration that illustrates how you’ll be using some of these tools in the very near future.
+
+## Tools today
+
+In this certificate program, you will have the opportunity to learn about many common tools data professionals use every day: spreadsheets, databases, query languages, data visualization, programming languages, and dashboards. Understanding the current tool landscape—and how it’s changing—will help you continue to grow your data science skills throughout your career. And understanding how the skills you learn for one tool can be applied to another means that you can adapt and add more tools to your toolkit!
+
+
+| **Tool**              | **Definition**                                                                 | **Examples**                                                         | **Transferable skills**                                                                                                  |
+| ----------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Spreadsheets          | A digital worksheet where data can be manipulated and used for calculations    | * Google Sheets* Microsoft Excel                                     | * Data entry* Mathematical calculations* Manage datasets* Task automation* Data manipulation* Data analysis              |
+| Databases             | A collection of data stored in a computer system                               | * Google Cloud* CloudSQL* Oracle* Microsoft SQL Server               | * Database design* Data storage management* Data integrity                                                               |
+| Programming languages | A system of words and symbols used to write instructions that computers follow | * SQL* R* Python* Java* C++                                          | * Communicate with computer systems* Write and input commands* Manage datasets* Data manipulation* Data analysis         |
+| Data visualization    | The graphical representation of data                                           | * Tableau* Matplotlib* Seaborn* Google Charts* InfoGram* ChartBlocks | * Communicate data insights* Design compelling visuals* Identify key metrics                                             |
+| Dashboards            | A tool that monitors live, incoming data                                       | * Tableau* LookerStudio* Microsoft PowerBI                           | * Communicate data insights* Monitor real-time data* Develop data visualizations* Design filters and custom calculations |
+
+Already, there are so many tools to choose from as a data professional. This certificate program will focus primarily on Python and data visualizations. As you progress in your career, you might find yourself learning new tools, and using your existing skills in new ways. Being able to recognize where tool skills overlap will help you continuously grow your data toolkit now and in the future.
+
+## You in the near future
+
+So far in this reading, you have been considering how the skills you’re going to learn in this certificate program will help you use even more tools in the future. As you prepare for your learning journey, you can also think about how you’ll be able to apply these skills soon—not just in the distant future.
+
+This certificate program focuses on some of the most commonly used tools for data analytics and machine learning with Python. More specifically, you will use:
+
+* NumPy and pandas for data processing and manipulation
+* matplotlib.pyplot, seaborn, and Tableau for visualizations
+* statsmodels for statistical tests and regression modeling
+* scikit-learn for building machine learning models
+
+Next, consider the following overview of some of the tools you’ll use to complete tasks in this certificate program.
+
+You’ll use pandas to view and manipulate tabular data with Python. In the following example, a comma-separated value (.csv) file is read into a pandas dataframe, of which the first five rows are displayed. A dataframe is basically a table used to organize data. This data is from the [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand). It contains the count of public bicycles rented per hour in the Seoul Bike Sharing System, with corresponding weather data and holiday information.
+
+![Screenshot of the first five rows of Seoul Bike Sharing data as a pandas dataframe](./assets/Ill6.png)
+
+You’ll use NumPy and pandas to perform calculations and get statistics for your data.
+
+![Screenshot of a summary statistics table presented as a pandas dataframe. Stats include count, mean, STD, max, and min.](./assets/Ill7.png)
+
+You’ll use Tableau, matplotlib.pyplot, and seaborn to create data visualizations.
+
+![A polar bar chart depicting average number of bikes rented per hour.](./assets/Ill8.png)
+
+![A scatter plot of bike rental counts by temperature with points rendered on a color gradient](./assets/Ill9.png)
+
+You’ll use statsmodels to practice statistical analysis and linear regression.
+
+![Linear regression model results using the statsmodels library. It includes information like R2, y-intercept, and coefficients](./assets/Ill10.png)
+
+And you’ll use scikit-learn to build and analyze machine learning models:
+
+![A depiction of the splits made by a scikit-learn decision tree model and the criteria used to determine each split.](./assets/Ill11.png)
+
+This is just a small sample of the full range of topics you’ll learn about in this certificate. As you gain proficiency with these tools, you’ll be equipped to take on nearly any data task.
+
+## Tools tomorrow and beyond
+
+The world of data science is always growing and evolving—tools you might not have even known about a few years ago can quickly become necessary for professionals working in the field. As you consider the skills you are developing now, it can be useful to consider all the ways you might also use them in the future.
+
+### Artificial intelligence
+
+Artificial intelligence, or AI, refers to computer systems that are able to perform tasks that normally require human intelligence. One of the great benefits of using AI for data science is that it can help provide real-time insights to stakeholders. For example, a business with an e-commerce website might use AI to monitor and deliver insights about how customers use their website in real-time, allowing the team to make quick improvements.
+
+In today's dynamic workplace where leveraging the latest technology is key for productivity and efficiency, having an understanding of AI will boost your career as a data professional. While building a career in this industry, you can start enhancing your AI skills by exploring available AI tools that can assist with your role. One tool that's currently used is Tableau AI. Tableau AI aims to simplify the process of data analysis. This tool has the potential to help data professionals prepare data, reduce repetitive tasks, and suggest appropriate visualizations.
+
+### Machine learning
+
+Machine learning is the use and development of algorithms and statistical models to teach computer systems to analyze and discover patterns in data. Data analysts can train algorithms to analyze large amounts of data that would otherwise take a long time to process. For example, a financial analyst might use machine learning to find patterns in the data that help identify fraud.
+
+One of the most exciting developments in these future technologies is the way they can be used together to automate tasks and provide insights faster than ever.
+
+## Key takeaways
+
+As a data professional, you will continue learning new skills and applying your current skills in new ways throughout your career. Recognizing how skills can be transferable allows you to adapt to different organizations’ needs and evolving technologies. And as you progress through this, you add tools to your data science toolbox that will help you now and in the future!
+
+
+# How data professionals use AI
+
+Earlier, you briefly considered the role of artificial intelligence in data science. You may recall that **artificial intelligence (AI) **refers to the development of computer systems able to perform tasks that normally require human intelligence. For example, practical applications of AI include voice assistants, autonomous vehicles, automated recommendation systems, and more.
+
+In this reading, you will learn more about the uses of AI for data work, and how AI can help data professionals better understand their data and make more informed decisions. You’ll also learn about the limitations of AI, and the differences between AI and human data professionals.
+
+## The uses of AI for data work
+
+Data professionals can use AI to improve their data analysis, perform essential tasks, and streamline their workflow. For example, data professionals can use AI to:
+
+* Create predictive models to help accurately forecast future events or outcomes.
+* Automate time-consuming tasks such as data cleaning, coding, and report writing.
+* Analyze extremely large datasets.
+* Improve the quality of data by identifying and correcting errors.
+* Generate insights from data that would not be obvious to humans.
+* Provide guidance on tasks such as choosing the right algorithms and interpreting results.
+* Facilitate* *collaboration among team members.
+
+Data professionals can leverage AI to enhance the quality and efficiency of their data projects, generate valuable insights, and help stakeholders make better business decisions.
+
+### **Conversational AI tools: Gemini and ChatGPT**
+
+Many data professionals now use conversational AI tools to help them analyze their data and boost their productivity. Two of the most frequently used tools are Gemini and ChatGPT.  Gemini was created by Google AI. ChatGPT, also known as Chat Generative Pre-trained Transformer, was developed by OpenAI.
+
+Gemini and ChatGPT are both** large language models (LLMs) **that are trained on massive datasets of text and code. An LLM** **is a type of AI algorithm that uses deep learning techniques to identify patterns in text and map how different words and phrases relate to each other. This allows LLMs to predict what word should come next. LLMs can generate human-like text in response to a wide range of prompts and questions.
+
+**Note**: This is a general introduction to LLMs. A detailed discussion of the development and computational logic of LLMs is beyond the scope of this course.
+
+Tools like Gemini and ChatGPT can help data professionals in a variety of ways. A data professional might ask Gemini or ChatGPT to:
+
+* Clean a dataset by removing missing values, outliers, and duplicate data.
+* Create interactive data visualizations such as dashboards and heatmaps.
+* Recommend a specific algorithm for a particular task based on the data professional's input.
+* Create a shared document to facilitate a brainstorming session among a team of data professionals.
+
+**Note**: This is a brief list of possible prompts. In another activity, you’ll get a chance to further explore Gemini and discover its capabilities.
+
+![Gemini](./assets/Ill12.png)
+
+# How data professionals use AI
+
+Earlier, you briefly considered the role of artificial intelligence in data science. You may recall that **artificial intelligence (AI) **refers to the development of computer systems able to perform tasks that normally require human intelligence. For example, practical applications of AI include voice assistants, autonomous vehicles, automated recommendation systems, and more.
+
+In this reading, you will learn more about the uses of AI for data work, and how AI can help data professionals better understand their data and make more informed decisions. You’ll also learn about the limitations of AI, and the differences between AI and human data professionals.
+
+## The uses of AI for data work
+
+Data professionals can use AI to improve their data analysis, perform essential tasks, and streamline their workflow. For example, data professionals can use AI to:
+
+* Create predictive models to help accurately forecast future events or outcomes.
+* Automate time-consuming tasks such as data cleaning, coding, and report writing.
+* Analyze extremely large datasets.
+* Improve the quality of data by identifying and correcting errors.
+* Generate insights from data that would not be obvious to humans.
+* Provide guidance on tasks such as choosing the right algorithms and interpreting results.
+* Facilitate* *collaboration among team members.
+
+Data professionals can leverage AI to enhance the quality and efficiency of their data projects, generate valuable insights, and help stakeholders make better business decisions.
+
+### **Conversational AI tools: Gemini and ChatGPT**
+
+Many data professionals now use conversational AI tools to help them analyze their data and boost their productivity. Two of the most frequently used tools are Gemini and ChatGPT.  Gemini was created by Google AI. ChatGPT, also known as Chat Generative Pre-trained Transformer, was developed by OpenAI.
+
+Gemini and ChatGPT are both** large language models (LLMs) **that are trained on massive datasets of text and code. An LLM** **is a type of AI algorithm that uses deep learning techniques to identify patterns in text and map how different words and phrases relate to each other. This allows LLMs to predict what word should come next. LLMs can generate human-like text in response to a wide range of prompts and questions.
+
+**Note**: This is a general introduction to LLMs. A detailed discussion of the development and computational logic of LLMs is beyond the scope of this course.
+
+Tools like Gemini and ChatGPT can help data professionals in a variety of ways. A data professional might ask Gemini or ChatGPT to:
+
+* Clean a dataset by removing missing values, outliers, and duplicate data.
+* Create interactive data visualizations such as dashboards and heatmaps.
+* Recommend a specific algorithm for a particular task based on the data professional's input.
+* Create a shared document to facilitate a brainstorming session among a team of data professionals.
+
+**Note**: This is a brief list of possible prompts. In another activity, you’ll get a chance to further explore Gemini and discover its capabilities.
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/OhEINsu3Qo-wk9nCK4K7VQ_746dfa80f6964671b8f01b35e15e03f1_0Rgz08TYS7CSt6FTzleZJw_34e2fe9423024398ad3e8fbd9aacfff1_ADAC1M3L1---How-data-professionals-use-AI.png?expiry=1751500800000&hmac=mm4k3NyLciFf68FBoJJa04GkfsPb4O3ObHryLbmzlfM)
+
+## Use cases for AI
+
+Data professionals across industries use AI to help analyze data and generate insights for stakeholders. Here are some examples of how data professionals use AI in specific sectors:
+
+### Finance
+
+* Analyze financial transactions to help prevent fraud and protect customers' money.
+* Analyze large datasets of financial data to help identify potential risks and make more informed decisions about investments.
+* Analyze historical market data and current market conditions to help generate sound investment recommendations.
+
+### Retail
+
+* Recommend products to customers based on their past purchase history and browsing behavior.
+* Track customers' interactions with the retail website to help personalize the shopping experience.
+* Analyze sales data and forecast future demand to help optimize the amount of product inventory and reduce costs.
+
+### Manufacturing
+
+* Automate tasks such as welding, painting, and assembly to help improve efficiency.
+* Analyze data from sensors and cameras to help identify defects in products before they are shipped to customers.
+* Analyze data from production lines to help identify ways to produce more products at a lower cost.
+
+## AI and human data professionals
+
+Data professionals use AI as a tool to help them understand data, make better decisions, and improve efficiency. Like all tools, AI has limitations. Human data professionals possess skills, abilities, and qualities that AI currently lacks. For example:
+
+* *Intuition*. AI models are trained on data, and they can only make decisions based on the patterns they observe in the data. Humans can use their intuition and personal experience to make decisions that are not explicitly programmed into the AI model. For this reason, it’s important to always verify a model’s output before relying on it.
+* *Deal with ambiguity.* AI models are good at solving problems that are well-defined and have clear parameters. However, humans can identify and understand complex problems that are not well-defined and have ambiguous parameters by considering key details offered in the context of the project.
+* *Interpersonal communication*. AI models can generate reports and presentations, but they cannot communicate with stakeholders in the nuanced way that humans can. Humans can explain the results of their analysis to fit the needs of specific stakeholders, and use their emotional intelligence to address concerns.
+* *Creativity*. AI models are good at following instructions, but they are not imaginative like humans. Humans can be creative in their approach to data analysis, and imagine new and innovative solutions to complex problems.
+* *Critical thinking*. Humans can think critically about their data and identify potential biases and ethical issues. AI models are usually trained on real-world data that contains biases and are therefore likely to reflect those biases in model outputs.
+* *Leadership*. Humans can be leaders, and they can motivate and inspire others. AI may have difficulty understanding the nuances of human emotion, motivation, and communication. This limits AI’s ability to effectively run an organization.
+* *Factuality. *Generative AI models are trained to output text based on patterns in language. Sometimes the model output may be very well-composed and as a result, seem reliable, but may not be factual. As noted above, it’s important to always verify model output.
+
+In the future, product and research teams may develop updates for AI that enlarge its current capabilities. However, human data professionals will continue to play an important role in data science by using their intuition, imagination, and unique experience to solve complex problems.
+
+## Key takeaways
+
+Data professionals can use AI to help automate tasks, make predictions, generate insights, and communicate findings. They can leverage AI to be more productive in their work and more impactful in their organizations. Overall, AI is a powerful tool for data professionals but it is not without limitations. For this reason, human oversight and intervention is critical when working with AI and related tools
+
+## Use cases for AI
+
+Data professionals across industries use AI to help analyze data and generate insights for stakeholders. Here are some examples of how data professionals use AI in specific sectors:
+
+### Finance
+
+* Analyze financial transactions to help prevent fraud and protect customers' money.
+* Analyze large datasets of financial data to help identify potential risks and make more informed decisions about investments.
+* Analyze historical market data and current market conditions to help generate sound investment recommendations.
+
+### Retail
+
+* Recommend products to customers based on their past purchase history and browsing behavior.
+* Track customers' interactions with the retail website to help personalize the shopping experience.
+* Analyze sales data and forecast future demand to help optimize the amount of product inventory and reduce costs.
+
+### Manufacturing
+
+* Automate tasks such as welding, painting, and assembly to help improve efficiency.
+* Analyze data from sensors and cameras to help identify defects in products before they are shipped to customers.
+* Analyze data from production lines to help identify ways to produce more products at a lower cost.
+
+## AI and human data professionals
+
+Data professionals use AI as a tool to help them understand data, make better decisions, and improve efficiency. Like all tools, AI has limitations. Human data professionals possess skills, abilities, and qualities that AI currently lacks. For example:
+
+* *Intuition*. AI models are trained on data, and they can only make decisions based on the patterns they observe in the data. Humans can use their intuition and personal experience to make decisions that are not explicitly programmed into the AI model. For this reason, it’s important to always verify a model’s output before relying on it.
+* *Deal with ambiguity.* AI models are good at solving problems that are well-defined and have clear parameters. However, humans can identify and understand complex problems that are not well-defined and have ambiguous parameters by considering key details offered in the context of the project.
+* *Interpersonal communication*. AI models can generate reports and presentations, but they cannot communicate with stakeholders in the nuanced way that humans can. Humans can explain the results of their analysis to fit the needs of specific stakeholders, and use their emotional intelligence to address concerns.
+* *Creativity*. AI models are good at following instructions, but they are not imaginative like humans. Humans can be creative in their approach to data analysis, and imagine new and innovative solutions to complex problems.
+* *Critical thinking*. Humans can think critically about their data and identify potential biases and ethical issues. AI models are usually trained on real-world data that contains biases and are therefore likely to reflect those biases in model outputs.
+* *Leadership*. Humans can be leaders, and they can motivate and inspire others. AI may have difficulty understanding the nuances of human emotion, motivation, and communication. This limits AI’s ability to effectively run an organization.
+* *Factuality. *Generative AI models are trained to output text based on patterns in language. Sometimes the model output may be very well-composed and as a result, seem reliable, but may not be factual. As noted above, it’s important to always verify model output.
+
+In the future, product and research teams may develop updates for AI that enlarge its current capabilities. However, human data professionals will continue to play an important role in data science by using their intuition, imagination, and unique experience to solve complex problems.
+
+## Key takeaways
+
+Data professionals can use AI to help automate tasks, make predictions, generate insights, and communicate findings. They can leverage AI to be more productive in their work and more impactful in their organizations. Overall, AI is a powerful tool for data professionals but it is not without limitations. For this reason, human oversight and intervention is critical when working with AI and related tools.
+
+
+# The places you’ll go…
+
+By now you’re familiar with many of the tools data professionals use to overcome different challenges in their work. However, as important as these technical skills are for your professional development, creating engaging presentations of your work is just as important. As you complete this certificate program, you’ll create a portfolio of projects that you can showcase to employers, other learners, or to broader audiences. In this reading you’ll find examples of the many ways other data professionals in the field have shared their work, so that you can learn what such presentations entail, get a sense of what appeals to you, and perhaps even inspire you in your own journey.
+
+## **Tableau dashboards**
+
+Bill Yost is a data analyst. One way he leverages his data professional skills is by building interactive data visualization dashboards on Tableau. His [project on office supply store analytics](https://public.tableau.com/app/profile/bill.yost/viz/SuperstoreELVTR/SuperstoreDashboard) is a great example of the dynamic capabilities Tableau offers data professionals.
+
+![Tableau dashboard displaying a map of the U.S. with sales per state and a bar graph showing sales in product categories.](./assets/Ill13.png)
+
+His  dashboard incorporates several different types of interactive graphs, including a bar chart, a line chart, and a map. You’ll learn how to create these in this certificate program.
+
+Tableau also allows you to create a profile to showcase your work. You can also follow other users and add projects that interest you to a list of favorites.
+
+![Tableau user profile page showing projects, favorites, following, and followers.](./assets/Ill14.png)
+
+Tableau is a great platform if you want to feature polished visualizations and demonstrate your ability to communicate results in an engaging and elegant way.
+
+## **Notebooks on Kaggle**
+
+If you prefer to compose a more technical exposition of your work, Kaggle is a great place to do it. For example, consider [Jesse Mostipak’s profile](https://www.kaggle.com/jessemostipak). Jesse is a data professional who uses Kaggle to contribute coding exemplars and datasets, participate in modeling competitions, and converse with others in the data community.
+
+The following is an example of a notebook she submitted as a tutorial on using XGBoost in tidymodels, which is a collection of R packages for modeling and machine learning. You’ll learn how to use XGBoost with Python later in this certificate program.
+
+![Kaggle notebook tutorial on XGBoost in tidymodels](./assets/Ill15.png)
+
+In addition to supporting your public presence as a data practitioner, publishing your work this way is a great opportunity to generate discussion of different approaches and methodologies with peers in the data community and to learn new skills.
+
+## **GitHub repositories**
+
+Another way to feature your work is by using GitHub. GitHub is probably best known for being a version control system used by coders and developers worldwide to keep track of projects involving large codebases with many simultaneous contributors. GitHub also offers tools to create and customize user profiles and project repositories. Take [Ravin Kumar’s GitHub page](https://github.com/canyon289) for example.
+
+![Screenshot and hyperlink to Ravin Kumar’s GitHub profile.](./assets/Ill16.png)
+
+Some advantages of GitHub include the ability to structure your projects into repositories, which are like folders that are accessible to other people via Git. Repositories can include Jupyter notebooks, computer programs, images and figures, and markdown exposition. You’ll work extensively with Jupyter notebooks and markdown text throughout this certificate program. GitHub also lets you watch, star, and follow users or individual projects. The platform is particularly useful for sharing code directly with other people and even working collaboratively with them on projects.
+
+## **Blogs on Medium**
+
+Jupyter notebooks and coding exhibitions aren’t the only means by which you can demonstrate expertise. Blog posts are another great way to propel your professional development. One of the advantages of blogs is that they showcase a wide range of highly sought-after skills beyond just technical proficiency. For example, not only will a well-written blog post convey your understanding of data concepts, tools, and techniques, but it will also emphasize your critical thinking, communication, and writing skills. These types of skills are what distinguish the best data professionals in the field.
+
+Medium is a great platform to post data science-related blogs. You can also submit to publishers of curated data science content, such as Towards Data Science, Analytics Vidhya, and KDNuggets. As an example, consider the following [article written by Cassie Kozykov](https://towardsdatascience.com/how-to-work-with-someone-elses-data-f33485d79ed4) (the instructor of this course) that was published on Towards Data Science.
+
+![Cassie Kozykov’s article entitled “How to work with someone else’s data” displayed on Towards Data Science.](./assets/Ill17.png)
+
+This post isn’t about coding or complex computer science or mathematics at all! It’s a practical guide for avoiding pitfalls when working with third-party data. Such topics are highly relevant, and writing about them is another great way to access exciting career opportunities.
+
+## **Other approaches**
+
+This list isn’t exhaustive. It’s intended to give you an idea of the possibilities for presenting your work and becoming an active participant in the field. Some people share Jupyter notebooks, others write helpful articles, and others create podcasts or YouTube videos. For example, consider[ this YouTube video on bias in machine learning and AI, produced by Angelica Spratley](https://www.youtube.com/watch?v=J2gTrr0SKuI), a data scientist and educator.
+
+![Thumbnail and hyperlink to “Bias in machine learning and AI” video on YouTube.](./assets/Ill18.png)
+
+By the way, bias is something you’ll learn about in the course on machine learning. Find what excites you, and your enthusiasm will be evident. The possibilities are vast if you follow your imagination and motivation to contribute to the exciting world of data.
+
+## **Key Takeaways**
+
+These are just a few ways you can share your work. One of the great things about doing so is that it gives you a public-facing profile that employers can review. If someone searches for your name and finds an impressive portfolio, it gives you more opportunity to stand out. Additionally, presenting your work forces you to clearly explain (and thus understand) your methodologies, making you a stronger data practitioner. Whichever way you choose to share your work, be creative, have fun, and don’t be afraid to put yourself out there. This is your opportunity to impress!
